@@ -1,2 +1,2 @@
-# flask-router
-Client-Side Routing for Flask
+# vanilla-router
+The unofficial Router for vanilla Javascript
