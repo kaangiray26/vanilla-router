@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="24px"
+   viewBox="0 -960 960 960"
+   width="24px"
+   fill="#e8eaed"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,24,0,1 @ F,0,0,1,0,24,0,1 @ F,0,0,1,0,24,0,1 @ F,0,0,1,0,24,0,1"
+       radius="24"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="27.674188"
+     inkscape:cx="11.057235"
+     inkscape:cy="12.050941"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     style="fill:#f7df1e;fill-opacity:1;stroke-width:114.247"
+     id="rect1"
+     width="678.82257"
+     height="678.82245"
+     x="-339.41129"
+     y="-1018.2337"
+     transform="rotate(45)"
+     inkscape:path-effect="#path-effect1"
+     sodipodi:type="rect"
+     d="m -315.41129,-1018.2337 630.82258,0 a 24,24 45 0 1 24,24 v 630.82245 a 24,24 135 0 1 -24,24 h -630.82258 a 24,24 45 0 1 -24,-24 V -994.2337 a 24,24 135 0 1 24,-24 z" />
+  <path
+     d="M 338.57861,-253.72574 V -508.2842 q 0,-23.33453 16.61701,-39.95154 16.61701,-16.61701 39.95154,-16.61701 H 627.0782 l -45.25484,-45.25484 39.59799,-39.59798 113.13709,113.13709 -113.13709,113.1371 -39.59799,-39.59798 45.25484,-45.25484 H 395.14716 v 254.55846 z"
+     id="path1"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.707107" />
+</svg>
